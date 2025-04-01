@@ -1,0 +1,28 @@
+html,
+body,
+header,
+.view {
+    height: 100%; }
+
+a {
+    color: #777;
+}
+
+table.dataTable tbody td {
+    padding: 0px 3px;
+}
+
+a:hover {
+    color: #f65d20; /* Цвет ссылки */
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #323232; }
+
+.top-nav-collapse {
+    background-color: #323232; }
+

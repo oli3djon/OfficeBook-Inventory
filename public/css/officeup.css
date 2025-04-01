@@ -1,0 +1,39 @@
+html,
+body,
+header,
+.view {
+    height: 100%; }
+
+a {
+    color: #323232;
+}
+
+a:hover {
+    color: #f65d20; /* Цвет ссылки */
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.carousel {
+    height: 100%; }
+.carousel .carousel-inner {
+    height: 100%; }
+.carousel .carousel-inner .carousel-item,
+.carousel .carousel-inner .active {
+    height: 100%; }
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.5); }
+
+.top-nav-collapse {
+    background-color: #323232; }
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #323232; } }
+
+.page-footer {
+    background-color: #323232; }
+
